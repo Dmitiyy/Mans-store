@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Roboto', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+}
+@font-face{
+    font-family:  'Roboto Bold', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+}
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -moz-tap-highlight-color: rgba(0, 0, 0, 0);
+    -ms-tap-highlight-color: rgba(0, 0, 0, 0);
+    -o-tap-highlight-color: rgba(0, 0, 0, 0);
+    font-family: 'Roboto';
+}
